@@ -1,4 +1,5 @@
-# Intended Sarcasm Detection in English
+# Unveiling the Elusive Art: Detecting Sarcasm in
+English
 
 ## Overview
 Detecting sarcasm in written text is a challenging task due to its linguistic complexity. This project applies **machine learning** and **natural language processing (NLP)** techniques, utilizing **LSTM** and **GRU** models with **GloVe embeddings** to improve sarcasm detection accuracy.
